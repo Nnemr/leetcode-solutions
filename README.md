@@ -4,6 +4,7 @@ This repository contains my solutions to Leetcode problems I solved. The problem
 - [Ad-Hoc](Ad-Hoc/)
 - Binary Search
 - Dynamic Programming
+- [Design](Design/)
 - Greedy
 - Prefix Sum
 - Priority Queue
